@@ -26,7 +26,7 @@
 
 ## GitHub Stats
 
-![87Bond's GitHub stats](https://github-readme-stats.vercel.app/api?username=87Bond&hide=contribs,prs)
+<img src="https://github-readme-stats.vercel.app/api?username=87Bond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="87Bond's GitHub stats" />
 
 
 ---
@@ -45,7 +45,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/87Bond/87Bond/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/87Bond/87Bond/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 
 </div>
 
