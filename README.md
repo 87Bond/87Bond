@@ -73,7 +73,11 @@
 ## Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=87Bond&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=87Bond&theme=tokyo-night&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=87Bond&theme=github-light&hide_border=true&area=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=87Bond&theme=github-light&hide_border=true&area=true" alt="GitHub activity graph" />
+  </picture>
 </div>
 
 ## Contribution Snake
