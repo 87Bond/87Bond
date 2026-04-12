@@ -62,14 +62,6 @@
   </a>
 </div>
 
-<div align="center">
-  <strong>
-    <a href="https://github.com/87Bond/Fundamentals-of-Number-Theory-and-Algebra">87Bond / Fundamentals-of-Number-Theory-and-Algebra</a>
-  </strong>
-  <br />
-  柯召的数论讲义以及聂灵沼的代数学引论课后习题答案
-</div>
-
 ## Contribution Activity
 
 <div align="center">
