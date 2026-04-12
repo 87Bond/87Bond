@@ -45,7 +45,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/87Bond/87Bond/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+<img src="https://raw.githubusercontent.com/87Bond/87Bond/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
