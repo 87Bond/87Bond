@@ -85,3 +85,13 @@
 [![Followers](https://img.shields.io/badge/Follow-87Bond-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/87Bond?tab=followers)
 
 </div>
+
+## Quote
+
+<div align="center">
+
+<!-- quote-start -->
+> Build things that are easy to run, easy to debug, and hard to break.
+<!-- quote-end -->
+
+</div>
