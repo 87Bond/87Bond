@@ -2,21 +2,19 @@
 
 # 87Bond
 
-### Building with code, automation, and AI tools
-
 [![Followers](https://img.shields.io/github/followers/87Bond?style=for-the-badge&logo=github&label=Followers&color=111111)](https://github.com/87Bond?tab=followers)
 [![Stars](https://img.shields.io/github/stars/87Bond?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=0ea5e9)](https://github.com/87Bond?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=87Bond&style=for-the-badge&color=7c3aed)](https://github.com/87Bond)
 
 </div>
 
-## About Me
+## About Me (for aesthetics only)
 
 - Interested in Python, TypeScript, automation workflows, and AI tooling.
 - Use GitHub as both a project archive and an experimentation space.
 - Prefer practical systems that are simple to run and easy to extend.
 
-## Tech Stack
+## Tech Stack (for aesthetics only)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
