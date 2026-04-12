@@ -30,19 +30,35 @@
 ## GitHub Overview
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-phi-sepia-15.vercel.app/api?username=87Bond&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=87Bond&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=87Bond&count_private=true&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=87Bond&count_private=true&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=87Bond&count_private=true&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=87Bond&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=87Bond&theme=default&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=87Bond&theme=default&hide_border=true" alt="GitHub streak stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-phi-sepia-15.vercel.app/api/top-langs/?username=87Bond&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=87Bond&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=87Bond&layout=compact&hide_border=true&langs_count=6&theme=default" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=87Bond&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Top languages" />
+  </picture>
 </div>
 
 ## Featured Projects
 
 <div align="center">
   <a href="https://github.com/87Bond/Fundamentals-of-Number-Theory-and-Algebra">
-    <img src="https://github-readme-stats-phi-sepia-15.vercel.app/api/pin/?username=87Bond&repo=Fundamentals-of-Number-Theory-and-Algebra&hide_border=true" alt="Pinned repository: Fundamentals-of-Number-Theory-and-Algebra" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=87Bond&repo=Fundamentals-of-Number-Theory-and-Algebra&hide_border=true&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=87Bond&repo=Fundamentals-of-Number-Theory-and-Algebra&hide_border=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=87Bond&repo=Fundamentals-of-Number-Theory-and-Algebra&hide_border=true&theme=default" alt="Pinned repository: Fundamentals-of-Number-Theory-and-Algebra" />
+    </picture>
   </a>
 </div>
 
