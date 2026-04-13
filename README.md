@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Build things that are easy to run, easy to debug, and hard to break.
+> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
 <!-- quote-end -->
 
 </div>
