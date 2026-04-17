@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The function of good software is to make the complex appear to be simple. — Grady Booch
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
