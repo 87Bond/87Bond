@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Premature optimization is the root of all evil. — Donald Knuth
 <!-- quote-end -->
 
 </div>
