@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The best way to predict the future is to invent it. — Alan Kay
+> Premature optimization is the root of all evil. — Donald Knuth
 <!-- quote-end -->
 
 </div>
