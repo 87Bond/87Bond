@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Premature optimization is the root of all evil. — Donald Knuth
+> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
 <!-- quote-end -->
 
 </div>
