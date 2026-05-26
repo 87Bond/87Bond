@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The function of good software is to make the complex appear to be simple. — Grady Booch
+> Premature optimization is the root of all evil. — Donald Knuth
 <!-- quote-end -->
 
 </div>
