@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
