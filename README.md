@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
 <!-- quote-end -->
 
 </div>
