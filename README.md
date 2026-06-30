@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
