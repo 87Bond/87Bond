@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The function of good software is to make the complex appear to be simple. — Grady Booch
+> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
 <!-- quote-end -->
 
 </div>
