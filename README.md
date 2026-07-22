@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
+> Premature optimization is the root of all evil. — Donald Knuth
 <!-- quote-end -->
 
 </div>
