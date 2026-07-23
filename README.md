@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Premature optimization is the root of all evil. — Donald Knuth
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
