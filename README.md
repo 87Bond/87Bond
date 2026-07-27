@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The best way to predict the future is to invent it. — Alan Kay
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
