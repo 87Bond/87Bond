@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
