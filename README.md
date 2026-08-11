@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Controlling complexity is the essence of computer programming. — Brian Kernighan
+> The function of good software is to make the complex appear to be simple. — Grady Booch
 <!-- quote-end -->
 
 </div>
