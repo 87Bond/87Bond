@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
