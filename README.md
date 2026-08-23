@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
+> The best way to predict the future is to invent it. — Alan Kay
 <!-- quote-end -->
 
 </div>
