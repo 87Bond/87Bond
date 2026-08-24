@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The best way to predict the future is to invent it. — Alan Kay
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
