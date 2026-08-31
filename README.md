@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
