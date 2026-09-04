@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
 <!-- quote-end -->
 
 </div>
