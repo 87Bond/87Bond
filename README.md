@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
+> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
 <!-- quote-end -->
 
 </div>
