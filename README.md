@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> The best way to predict the future is to invent it. — Alan Kay
 <!-- quote-end -->
 
 </div>
