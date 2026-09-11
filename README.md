@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The best way to predict the future is to invent it. — Alan Kay
+> Talk is cheap. Show me the code. — Linus Torvalds
 <!-- quote-end -->
 
 </div>
