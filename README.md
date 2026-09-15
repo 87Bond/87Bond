@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Talk is cheap. Show me the code. — Linus Torvalds
+> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
 <!-- quote-end -->
 
 </div>
