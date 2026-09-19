@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+> The best way to predict the future is to invent it. — Alan Kay
 <!-- quote-end -->
 
 </div>
