@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The best way to predict the future is to invent it. — Alan Kay
+> The function of good software is to make the complex appear to be simple. — Grady Booch
 <!-- quote-end -->
 
 </div>
