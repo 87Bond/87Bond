@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> First, solve the problem. Then, write the code. — John Johnson
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
