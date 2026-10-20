@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Controlling complexity is the essence of computer programming. — Brian Kernighan
+> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
 <!-- quote-end -->
 
 </div>
