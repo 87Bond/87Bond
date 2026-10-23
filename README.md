@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Premature optimization is the root of all evil. — Donald Knuth
+> First, solve the problem. Then, write the code. — John Johnson
 <!-- quote-end -->
 
 </div>
