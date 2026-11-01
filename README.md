@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+> The function of good software is to make the complex appear to be simple. — Grady Booch
 <!-- quote-end -->
 
 </div>
