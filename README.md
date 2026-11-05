@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
 <!-- quote-end -->
 
 </div>
