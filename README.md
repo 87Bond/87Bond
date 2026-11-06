@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+> Controlling complexity is the essence of computer programming. — Brian Kernighan
 <!-- quote-end -->
 
 </div>
