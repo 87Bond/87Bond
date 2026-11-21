@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> The function of good software is to make the complex appear to be simple. — Grady Booch
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
 <!-- quote-end -->
 
 </div>
