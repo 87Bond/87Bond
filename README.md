@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+> The most damaging phrase in the language is: We've always done it this way. — Grace Hopper
 <!-- quote-end -->
 
 </div>
