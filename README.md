@@ -91,7 +91,7 @@
 <div align="center">
 
 <!-- quote-start -->
-> Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+> The best way to predict the future is to invent it. — Alan Kay
 <!-- quote-end -->
 
 </div>
